@@ -1,0 +1,116 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "membersDetails": {
+        "name": "abcdef",
+        "usn": "abcdef"
+      },
+      "semester": 5,
+      "subject": "abcdef",
+      "title": "abcdef",
+      "assignedFaculty": "abcdef",
+      "projLink": "",
+      "report": "",
+      "teamId": "",
+      "marks": "NaN"
+    },
+    {
+      "semester": "6",
+      "subject": "CN",
+      "title": "Firewalls",
+      "assignedFaculty": "AG",
+      "projLink": "github.com",
+      "report": "C:\\fakepath\\base.html",
+      "teamId": "",
+      "marks": null,
+      "membersDetails": {
+        "name": "Anvay",
+        "usn": "1DS19CS029"
+      },
+      "id": 2
+    },
+    {
+      "semester": "6",
+      "subject": "CN",
+      "title": "Firewalls",
+      "assignedFaculty": "AG",
+      "projLink": "github.com",
+      "report": "C:\\fakepath\\base.html",
+      "teamId": "",
+      "marks": null,
+      "membersDetails": {
+        "name": "Arnav",
+        "usn": "1DS19CS030"
+      },
+      "id": 3
+    },
+    {
+      "semester": "6",
+      "subject": "CN",
+      "title": "Firewalls",
+      "assignedFaculty": "AG",
+      "projLink": "github.com",
+      "report": "C:\\fakepath\\base.html",
+      "teamId": "",
+      "marks": "25",
+      "membersDetails": {
+        "name": "Bhargey",
+        "usn": "1DS19CS038"
+      },
+      "id": 4
+    },
+    {
+      "semester": "6",
+      "subject": "CN",
+      "title": "Firewalls",
+      "assignedFaculty": "AG",
+      "projLink": "github.com",
+      "report": "C:\\fakepath\\base.html",
+      "teamId": "",
+      "marks": null,
+      "membersDetails": {
+        "name": "Calan",
+        "usn": "1DS19CS041"
+      },
+      "id": 5
+    },
+    {
+      "semester": 1,
+      "subject": "CN",
+      "title": "cds",
+      "assignedFaculty": "AG",
+      "projLink": "cdsdssd",
+      "report": "C:\\fakepath\\base.html",
+      "teamId": "",
+      "marks": null,
+      "membersDetails": {
+        "name": "abc",
+        "usn": "1ds19cs669"
+      },
+      "id": 6
+    },
+    {
+      "semester": "4",
+      "subject": "Database Management System",
+      "title": "Database",
+      "assignedFaculty": "AM",
+      "projLink": "github.com",
+      "report": "C:\\fakepath\\base.html",
+      "teamId": "",
+      "marks": null,
+      "membersDetails": {
+        "name": "Akshay",
+        "usn": "1DS19CS020"
+      },
+      "id": 7
+    }
+  ],
+  "faculties": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
